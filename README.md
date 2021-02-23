@@ -1,1 +1,1 @@
-# aresx-team-bot
+Discord bot for our team.
